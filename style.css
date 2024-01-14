@@ -1,6 +1,8 @@
-h1{
-    color: aquamarine;
-}
-.r {
-    color: rgb(8, 255, 131);
+/* Work Sans font from Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Work Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
 }
